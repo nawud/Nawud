@@ -1,4 +1,4 @@
-![Mi Banner]([https://drive.google.com/file/d/1PXgqUz9DpnMqUd3ZzXUuRACWhkpMTzJL/view?usp=sharing](https://drive.google.com/file/d/1PXgqUz9DpnMqUd3ZzXUuRACWhkpMTzJL/view?usp=sharing))
+![Mi Banner](https://raw.githubusercontent.com/nawud/proyecto-personal/main/img/Portada%20Linkedin%20Programador%20Web%20Abstracto%20Azul%20Blanco.png)
 # ¡Hola! 👋 Soy Miller Duwan Montaña Rodriguez
 
 🚀 Desarrollador de software apasionado por la creación de aplicaciones web modernas, con experiencia en tecnologías de frontend y backend. Siempre en búsqueda de nuevos desafíos y oportunidades para aprender.
