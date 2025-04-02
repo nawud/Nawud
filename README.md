@@ -22,7 +22,7 @@
 - HTML5, CSS3, Bootstrap, Figma (diseño UI/UX)
 
 **Backend:**
-- Java (Spring Boot)
+- Java (Spring)
 - MySQL
 - Node.js (básico)
 
