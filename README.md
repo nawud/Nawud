@@ -11,7 +11,7 @@
 - 💻 **Áreas de interés**: Desarrollo web con tecnologias react y javascript y java.
 - 🎨 **Tecnologías favoritas**: HTML5, CSS, React, JavaScript, Java, Spring Boot. 
 - 🌱 **Actualmente aprendiendo**: DevOps y optimización de aplicaciones a escala.
-- 📫 **Contáctame**: [duwan17@gmail.com] | [LinkedIn](https://www.linkedin.com/in/miller-duwan/))
+- 📫 **Contáctame**: [mduwan.montana@gmail.com] | [LinkedIn](https://www.linkedin.com/in/miller-duwan/))
 
 ---
 
