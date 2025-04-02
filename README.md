@@ -1,3 +1,4 @@
+
 # ¡Hola! 👋 Soy Miller Duwan Montaña Rodriguez
 
 🚀 Desarrollador de software apasionado por la creación de aplicaciones web modernas, con experiencia en tecnologías de frontend y backend. Siempre en búsqueda de nuevos desafíos y oportunidades para aprender.
@@ -40,7 +41,7 @@ Plataforma de comercio electrónico desarrollada con **React** y **Spring Boot**
 - **Desafíos superados**: Solución a problemas de visualización de datos en pantalla y optimización de funcionalidades.
 - **Demo**: [Enlace al proyecto](https://github.com/nawud/funko_pop.git)
 
-### [Otro proyecto interesante](https://github.com/nawud/proyecto-personal.git)
+### [Otro proyecto personal](https://thewan.netlify.app/)
 - Servicios tecnologicos con la estructura de html y diseño css.
 
 ---
